@@ -1,1 +1,15 @@
 /exe/llamafile.exe filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-base.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-alderlake.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-haswell.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-icelake.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-sandybridge.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-sapphirerapids.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-skylakex.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-sse42.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-cpu-x64.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/ggml-rpc.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/libcurl-x64.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/libomp140.x86_64.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/llama.dll filter=lfs diff=lfs merge=lfs -text
+/exe/llama.cpp/mtmd.dll filter=lfs diff=lfs merge=lfs -text
