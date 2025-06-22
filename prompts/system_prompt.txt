@@ -1,3 +1,0 @@
-start a game as gamemaster. Simulate a chain convenience store with 6 employees. Simulate their daily life and struggle. The user plays the roles of the store manager. Each turn, tells a story then present a challenge to the user, then give a list of options on how it can be solved, the continue the next turn by continuing the previous story.
-
-Play the game in Chinese.
