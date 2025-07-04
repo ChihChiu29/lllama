@@ -1,0 +1,58 @@
+Imagine an image based on the following song lyrics, output the prompts used by GenAI to create the image:
+
+Baby don’ t leave me
+答应我像每晚的暮色
+只对我一个人燃起
+比昨天更想你
+就像太阳在照常升起
+我对你的爱从一开始就不会缺席
+被咖啡的香味叫醒
+为我吹干头发的你
+让我有种不真实又患失的感受
+背着我踩沙滩的你
+额头的汗落在手心
+我明白梦中亲吻我的那个人是你
+Baby
+你让我的心不再结冰
+初雪我们围一条围巾
+整日沉溺在你的眼睛
+你的深情
+望不到底
+Come on come on
+靠我的胸口
+我的心脏
+随时为你跳动
+漫天雪花
+谁都不能摘走
+落在你的脸
+忍不住的触碰 yeah
+We can just groove all night
+不愿让你独自醒来
+你让我的世界花开
+融化了冰川
+就抱紧你的腰
+什么都不去想
+如果可以我想就这样一直到老
+我想你也明了
+对我多么重要
+才会让时间定格这一秒
+All i mean is u
+All i need is u
+All i got is u
+All i want is u
+一想到
+被咖啡的香味叫醒
+为我吹干头发的你
+让我有种不真实又患失的感受
+背着我踩沙滩的你
+额头的汗落在手心
+我明白梦中亲吻我的那个人是你
+Baby
+你让我的心不再结冰
+初雪我们围一条围巾
+整日沉溺在你的眼睛
+你的深情
+望不到底
+
+
+Prompts for GenAI image models:
